@@ -1,20 +1,36 @@
-# Kalkyl inkomster/utgifter för egenproducerad el:
-https://www.solcellskollen.se/blogg/sa-mycket-sparar-du-pa-elrakningen-med-solceller-en-genomgang
 
-# Solpaneler
+# Solpaneler överblick
+
 * Test över olika solpaneler: https://www.solcellsofferter.se/solceller-bast-i-test/
-# Delar som krävs för en solcellsanläggning:
+## Delar som krävs för en solcellsanläggning:
 - https://www.energimyndigheten.se/fornybart/solelportalen/har-mitt-hus-ratt-forutsattningar/det-har-ingar-i-en-solcellsanlaggning/
 - Solceller
 - Monteringssystem
 - växelriktare
 - Anslutning
 
-# Får man göra jobbet själv?
+## Kalkyl inkomster/utgifter för egenproducerad el:
+https://www.solcellskollen.se/blogg/sa-mycket-sparar-du-pa-elrakningen-med-solceller-en-genomgang
+
+
+## Får man göra jobbet själv?
 Man får montera upp solcellerna själv men själva inkopplingen av el måste gjöras av behörig elektriker
 https://hemsol.se/solceller/montera-sjalv/
 
-# Info för Top 3 paneler
+## Bygglov:
+här finns reglerna för [bygglov](https://www.boverket.se/sv/PBL-kunskapsbanken/lov--byggande/anmalningsplikt/byggnader/andring/sol/).
+Det verkar inte som att man behöver ett bygglov men reglerna är luddiga:
+"Solfångare eller solcellspaneler som monteras utanpå en byggnads fasadbeklädnad eller taktäckningsmaterial är i vissa fall bygglovsbefriade även om de medför att byggnadens yttre utseende avsevärt påverkas. Undantaget från krav på bygglov gäller för alla typer av byggnader. Följande kriterier ska vara uppfyllda för att sådana solfångare och solcellspaneler ska vara bygglovsbefriade:
+
+    de ska monteras utanpå en byggnads fasadbeklädnad eller taktäckningsmaterial
+    de ska följa byggnadens form
+    de får inte monteras på byggnader eller inom bebyggelseområden som är särskilt värdefulla
+    de får inte monteras inom eller i anslutning till områden som är av riksintresse för totalförsvaret
+    att solenergianläggningen inte kräver bygglov enligt den detaljplan som gäller för området
+"
+
+# Solceller:
+## Info för Top 3 paneler
 | namn | pris/panel | url för betällning | storlek | effekt | €/W |
 |---|---|---|---|---|---|
 | Maxeon 3 | 370€ (inc frakt) |  [https://www.europe-solarstore.com/sunpower-spr-max3-400.htmln ](https://www.solar.se/se-webshop/heating--climate/photovoltaic-panels--inverters/photovoltaics-module/1200456525/)| 1046x1690 | 400Wp | 1.08W/€ |
@@ -36,15 +52,4 @@ Det finns modulbaserade battterpack där man kan lägga till fler enheter om man
 
 # växelriktare
 
-# Bygglov:
-här finns reglerna för [bygglov](https://www.boverket.se/sv/PBL-kunskapsbanken/lov--byggande/anmalningsplikt/byggnader/andring/sol/).
-Det verkar inte som att man behöver ett bygglov men reglerna är luddiga:
-"Solfångare eller solcellspaneler som monteras utanpå en byggnads fasadbeklädnad eller taktäckningsmaterial är i vissa fall bygglovsbefriade även om de medför att byggnadens yttre utseende avsevärt påverkas. Undantaget från krav på bygglov gäller för alla typer av byggnader. Följande kriterier ska vara uppfyllda för att sådana solfångare och solcellspaneler ska vara bygglovsbefriade:
 
-    de ska monteras utanpå en byggnads fasadbeklädnad eller taktäckningsmaterial
-    de ska följa byggnadens form
-    de får inte monteras på byggnader eller inom bebyggelseområden som är särskilt värdefulla
-    de får inte monteras inom eller i anslutning till områden som är av riksintresse för totalförsvaret
-    att solenergianläggningen inte kräver bygglov enligt den detaljplan som gäller för området
-
-"
