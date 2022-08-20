@@ -1,7 +1,7 @@
 
 # Solpaneler överblick
 
-* Test över olika solpaneler: https://www.solcellsofferter.se/solceller-bast-i-test/
+
 ## Delar som krävs för en solcellsanläggning:
 - https://www.energimyndigheten.se/fornybart/solelportalen/har-mitt-hus-ratt-forutsattningar/det-har-ingar-i-en-solcellsanlaggning/
 - Solceller
@@ -32,6 +32,7 @@ Todo: hur får man svar på detta? byggnadskontoret har en svarstid på flera m�
 
 # Solceller:
 ## Info för Top 3 paneler
+* Test över olika solpaneler: https://www.solcellsofferter.se/solceller-bast-i-test/
 | namn | pris/panel | url för betällning | storlek | effekt | €/W |
 |---|---|---|---|---|---|
 | Maxeon 3 | 370€ (inc frakt) |  [https://www.europe-solarstore.com/sunpower-spr-max3-400.htmln ](https://www.solar.se/se-webshop/heating--climate/photovoltaic-panels--inverters/photovoltaics-module/1200456525/)| 1046x1690 | 400Wp | 1.08W/€ |
