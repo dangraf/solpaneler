@@ -3,6 +3,16 @@ https://www.solcellskollen.se/blogg/sa-mycket-sparar-du-pa-elrakningen-med-solce
 
 # Solpaneler
 * Test över olika solpaneler: https://www.solcellsofferter.se/solceller-bast-i-test/
+# Delar som krävs för en solcellsanläggning:
+- https://www.energimyndigheten.se/fornybart/solelportalen/har-mitt-hus-ratt-forutsattningar/det-har-ingar-i-en-solcellsanlaggning/
+- Solceller
+- Monteringssystem
+- växelriktare
+- Anslutning
+
+# Får man göra jobbet själv?
+Man får montera upp solcellerna själv men själva inkopplingen av el måste gjöras av behörig elektriker
+https://hemsol.se/solceller/montera-sjalv/
 
 # Info för Top 3 paneler
 | namn | pris/panel | url för betällning | storlek | effekt | €/W |
