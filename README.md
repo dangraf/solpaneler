@@ -8,6 +8,11 @@
 | LG neon r | 320€ (inc frakt) | https://www.europe-solarstore.com/solar-panels/manufacturer/lg/lg-neon-r-lg360q1c-a5.html | 1016x1700 | 365Wp | 1.14W/€ |
 | REC Alpha | 369€ (inc frakt) | https://www.mg-solar-shop.com/rec-solar-alpha-pure-series-405-solar-panel-405wp-monocrystalline | 1016x1821 | 405Wp | 1.09 W/€ |
 
+Faktorer som borde beaktas när man väljer solpanel:
+- **Storleken:** nästan samma mellan tillverkarna. vi vill ha så många paneler som möjligt på vårt tak.
+- **Pris/W:** Borde inte spela så stor roll. det har med återbetalningstiden att göra men det är inte här den stora kostnaden ligger.
+- **övriga faktorer:** kanske kolla mer på de olika teknikerna (t.ex monokristalin) för att se vilka som ger bäst effekt vid mulet väder eller skugga (med tanke på träden)
+
 # Monteringsdetaljer
 
 # Batterier
