@@ -43,6 +43,12 @@ Faktorer som borde beaktas när man väljer solpanel:
 - **Storleken:** nästan samma mellan tillverkarna. vi vill ha så många paneler som möjligt på vårt tak.
 - **Pris/W:** Borde inte spela så stor roll. det har med återbetalningstiden att göra men det är inte här den stora kostnaden ligger.
 - **övriga faktorer:** kanske kolla mer på de olika teknikerna (t.ex monokristalin) för att se vilka som ger bäst effekt vid mulet väder eller skugga (med tanke på träden)
+## Montering:
+- Hur många celler /kwh skulle man kunna få plats med på vårt tak? och hur skulle dessa celler isf monteras?
+- Ta fram ritning på taket med mått
+- testa att passa cellerna på olika sätt, finns det olika möjligheter? Man vill oftast ha panelerna monterade på räcken som går över taket.
+- Finns det någon tak-brygga man kan använda sig av över solcellerna? detta känns inte helt 100 då de kommer skymma panelerna. 
+- Finns det någon lämplig stege till skorstenen man kan använda sig av som inte heller skymmer och som man inte trampar genom och förstör panelerna (oförsiktig sotare?) eller kan man placera stegen mellan på något sätt?
 
 # Monteringsdetaljer
 
