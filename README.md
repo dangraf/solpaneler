@@ -25,3 +25,16 @@ Det finns modulbaserade battterpack där man kan lägga till fler enheter om man
 - Batteri inverter ca 2500€ beroende på effektuttag: https://www.mg-solar-shop.com/pv-battery-systems/inverter-battery-manager/fronius-battery-inverter/
 
 # växelriktare
+
+# Bygglov:
+här finns reglerna för bygglov: https://www.boverket.se/sv/PBL-kunskapsbanken/lov--byggande/anmalningsplikt/byggnader/andring/sol/
+Det verkar inte som att man behöver ett bygglov men reglerna är luddiga:
+"Solfångare eller solcellspaneler som monteras utanpå en byggnads fasadbeklädnad eller taktäckningsmaterial är i vissa fall bygglovsbefriade även om de medför att byggnadens yttre utseende avsevärt påverkas. Undantaget från krav på bygglov gäller för alla typer av byggnader. Följande kriterier ska vara uppfyllda för att sådana solfångare och solcellspaneler ska vara bygglovsbefriade:
+
+    de ska monteras utanpå en byggnads fasadbeklädnad eller taktäckningsmaterial
+    de ska följa byggnadens form
+    de får inte monteras på byggnader eller inom bebyggelseområden som är särskilt värdefulla
+    de får inte monteras inom eller i anslutning till områden som är av riksintresse för totalförsvaret
+    att solenergianläggningen inte kräver bygglov enligt den detaljplan som gäller för området
+
+"
