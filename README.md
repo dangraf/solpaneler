@@ -28,6 +28,7 @@ Det verkar inte som att man behöver ett bygglov men reglerna är luddiga:
     de får inte monteras inom eller i anslutning till områden som är av riksintresse för totalförsvaret
     att solenergianläggningen inte kräver bygglov enligt den detaljplan som gäller för området
 "
+Todo: hur får man svar på detta? byggnadskontoret har en svarstid på flera månader. Finns det andra sätt att få svar på frågan för att snabbare?
 
 # Solceller:
 ## Info för Top 3 paneler
