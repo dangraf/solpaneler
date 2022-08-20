@@ -1,3 +1,6 @@
+# Kalkyl inkomster/utgifter för egenproducerad el:
+https://www.solcellskollen.se/blogg/sa-mycket-sparar-du-pa-elrakningen-med-solceller-en-genomgang
+
 # Solpaneler
 * Test över olika solpaneler: https://www.solcellsofferter.se/solceller-bast-i-test/
 
