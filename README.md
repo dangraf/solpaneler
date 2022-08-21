@@ -54,7 +54,7 @@ Rottnerosbacken 36 har plats för 19-20st paneler vilket ger en effekt av 8kW. U
 
 # Inverter/växelriktare.
 https://www.solcellskollen.se/blogg/sa-valjer-du-en-bra-vaxelriktare
-Det verkar finnas hybridväxlare om man vill använda sig av ett batteri (kan lägga till batteri senare) eller "vanliga" växelriktare. Man kan även använda sig av "optimerare" som man monterar på varje eller vartannan panel.
+Det verkar finnas hybridväxlare om man vill använda sig av ett batteri (kan lägga till batteri senare) eller "vanliga" växelriktare. Man kan även använda sig av "optimerare" som man monterar på varje eller vartannan panel. Växelriktaren dimentioneras normal till ca 20% under anläggningens effekt eftersom det är sällan som den producerar max effekt. 8*0.8 = 6.4Kw 
 
 ### Optimerare:
 https://www.solcellskollen.se/blogg/optimerare-till-solcellsanlaggningen-vi-reder-ut-vad-som-ar-bra-att-tanka-pa
