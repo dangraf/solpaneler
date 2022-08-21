@@ -17,7 +17,7 @@ https://www.solcellskollen.se/blogg/sa-mycket-sparar-du-pa-elrakningen-med-solce
 Man får montera upp solcellerna själv men själva inkopplingen av el måste gjöras av behörig elektriker
 https://hemsol.se/solceller/montera-sjalv/
 
-## föranmälan till elbolaget
+## Föranmälan till elbolaget
 https://www.ellevio.se/privat/solceller/solceller-steg-for-steg/innan-installation/
 Man behöver hitta en elektriker som kan göra jobbet med att koppla in solcellsanläggningen. Denna behöver ta kontakt med Ellevio för att få ett godkännande/nekande om man kan koppla in celler i anläggningen.
 
