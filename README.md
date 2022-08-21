@@ -45,13 +45,12 @@ Todo: hur får man svar på detta? byggnadskontoret har en svarstid på flera m�
 
 Faktorer som borde beaktas när man väljer solpanel:
 - **Storleken:** nästan samma mellan tillverkarna. vi vill ha så många paneler som möjligt på vårt tak.
-- **Pris/W:** Borde inte spela så stor roll. det har med återbetalningstiden att göra men det är inte här den stora kostnaden ligger.
 - **övriga faktorer:** kanske kolla mer på de olika teknikerna (t.ex monokristalin) för att se vilka som ger bäst effekt vid mulet väder eller skugga (med tanke på träden)
 
 ## Storlek på anläggningen:
 Rottnerosbacken 36 har plats för 19-20st paneler vilket ger en effekt av 8kW. Uträkningen gjordes [här](Ritningar_tak.md)
 ## Summering solceller:
-- 20 paneler
+- 20 paneler: 20*370€*10.63kr/€=78500:-
 
 
 ## Montering:
