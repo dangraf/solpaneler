@@ -1,7 +1,8 @@
 # Nuvarande status på taket:
 - takbryggan ligger fel i förhållande till solpanelerna eftersom den ligger enbart 0.7m från takkanten.
 - Stegarna från takbryggan till skorstenarna ligger på varandras tak.
-
+# Mätningar på taket
+![](bilder/ritning.jpg)
 ![](bilder/tak_nu.png)
 
 # förslag 1 för solceller
