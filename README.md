@@ -55,6 +55,14 @@ Rottnerosbacken 36 har plats för 19-20st paneler vilket ger en effekt av 8kW. U
 # Inverter/växelriktare.
 https://www.solcellskollen.se/blogg/sa-valjer-du-en-bra-vaxelriktare
 Det verkar finnas hybridväxlare om man vill använda sig av ett batteri (kan lägga till batteri senare) eller "vanliga" växelriktare. Man kan även använda sig av "optimerare" som man monterar på varje eller vartannan panel. Växelriktaren dimentioneras normal till ca 20% under anläggningens effekt eftersom det är sällan som den producerar max effekt. 8*0.8 = 6.4Kw 
+- Huawei 6kW, 3-fas 1470€: https://www.mg-solar-shop.com/huawei-sun2000-6ktl-m1-hybrid-inverter
+- Kostal PIKO 7kW, 1902€, https://www.mg-solar-shop.com/kostal-piko-7.0-iq-pv-inverter
+
+### Switchar till slingor:
+Det behövs även införskaffas switchar så att man kan utföra service på boxen.
+Hur räknar man ut hur många slingor man behöver?
+### Kabeldragning
+Det behövs kablar från taket ner till inverteraren kabelarean borde ligga på ca 6m2 eller mer beroende på strömmen och hur många slingor.
 
 ### Optimerare:
 https://www.solcellskollen.se/blogg/optimerare-till-solcellsanlaggningen-vi-reder-ut-vad-som-ar-bra-att-tanka-pa
