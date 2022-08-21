@@ -56,6 +56,10 @@ Rottnerosbacken 36 har plats för 19-20st paneler vilket ger en effekt av 8kW. U
 https://www.solcellskollen.se/blogg/sa-valjer-du-en-bra-vaxelriktare
 Det verkar finnas hybridväxlare om man vill använda sig av ett batteri (kan lägga till batteri senare) eller "vanliga" växelriktare. Man kan även använda sig av "optimerare" som man monterar på varje eller vartannan panel.
 
+### Optimerare:
+https://www.solcellskollen.se/blogg/optimerare-till-solcellsanlaggningen-vi-reder-ut-vad-som-ar-bra-att-tanka-pa
+Hanterar och ger status per solcellspanel så att inte någon panel begränsar övriga vid t.ex skugga av löv eller annat. Men de brukar kosta extra att sätta in dessa, ca 5-10% ökad installationskostnad
+
 # Batterier:
 Här finns en [bra guide](https://www.solcellskollen.se/blogg/med-lagre-kostnader-och-gront-avdrag-ar-det-lage-att-skaffa-batterier-till-sina-solceller)
 En villa förbrukar mellan 25-40kWh /dag. Ett batteri kostar ung 11000:-/kWh. Det finns ett grönt avdrag för batterier på ca 48.5% vilket gör att ett batter som kostar 70.000:- blir priset ca 36.000kr efter avdrag.
