@@ -12,7 +12,6 @@
 ## Kalkyl inkomster/utgifter för egenproducerad el:
 https://www.solcellskollen.se/blogg/sa-mycket-sparar-du-pa-elrakningen-med-solceller-en-genomgang
 
-
 ## Får man göra jobbet själv?
 Man får montera upp solcellerna själv men själva inkopplingen av el måste gjöras av behörig elektriker
 https://hemsol.se/solceller/montera-sjalv/
@@ -47,6 +46,11 @@ Faktorer som borde beaktas när man väljer solpanel:
 - **Storleken:** nästan samma mellan tillverkarna. vi vill ha så många paneler som möjligt på vårt tak.
 - **Pris/W:** Borde inte spela så stor roll. det har med återbetalningstiden att göra men det är inte här den stora kostnaden ligger.
 - **övriga faktorer:** kanske kolla mer på de olika teknikerna (t.ex monokristalin) för att se vilka som ger bäst effekt vid mulet väder eller skugga (med tanke på träden)
+
+## Storlek på anläggningen:
+Rottnerosbacken 36 har plats för 19-20st paneler vilket ger en effekt av 8kW. Uträkningen gjordes [här](Ritningar_tak.md)
+
+
 ## Montering:
 - Hur många celler /kwh skulle man kunna få plats med på vårt tak? och hur skulle dessa celler isf monteras?
 - Ta fram ritning på taket med mått
