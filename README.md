@@ -64,4 +64,15 @@ Det finns modulbaserade battterpack där man kan lägga till fler enheter om man
 
 # växelriktare
 
+# Plan:
+
+1. Ta reda på allt material och en idee om hur anläggningen skall se ut samt kapacitet och kostnad för material
+1. Ta reda om om man behöver bygglov för solceller här på rottnerosbacken.
+1. Hitta en elektriker som kan göra jobbet med att installera elen för solcellerna samt kostnad.
+1. avgöra om man vill gjöra jobbet själv eller om man vill lägga ut allt på någon annan. 
+3. Göra beställningen av alla delar.
+
+... Hur göra med grannens stege som är inne på vårt tak just nu?
+... Hur göra med takbrygga om vi är det enda huset som skaffar solceller?
+
 
