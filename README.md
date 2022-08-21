@@ -55,6 +55,9 @@ Faktorer som borde beaktas när man väljer solpanel:
 - Finns det någon lämplig stege till skorstenen man kan använda sig av som inte heller skymmer och som man inte trampar genom och förstör panelerna (oförsiktig sotare?) eller kan man placera stegen mellan på något sätt?
 
 # Monteringsdetaljer
+- Fäste för solpaneler
+- Flytta stegar till skorstenen
+- Byta takbrygga: [TBJ](https://www.tjb.se/underkategori/takstege-takbrygga) verkar vara en standard-produkt i sverige för detta.
 
 # Batterier
 Hur mycket batteri behöver man?
