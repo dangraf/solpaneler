@@ -11,7 +11,7 @@
 - Montera takbryggan högre upp. Borde vara lättare då man kan sitta på den gamla medan man monterar den nya.
 - Flytta stegen på gaveln så att man får takbryggan till vänster stegen när man kommer upp (byta ut gavelstegen?)
 - Flytta/byta ut våra stegar till skorstenarna
-- Totalt antal solpaneler på Grafströms tak: 20st
+- Totalt antal solpaneler på Grafströms tak: 19-20st => 8kW för paneler med 400W effekt
 
 # Fundering:
 - Nuvarande förslag på stege till skorstenen gör att det blir svår att komma åt baksidan på skorstenen som kan vara bra när man t.ex fogar om den. Kanske kan man ta bort panelen till vänster om skorstenen och montera taksteg istället för en hel stege.
