@@ -49,6 +49,8 @@ Faktorer som borde beaktas när man väljer solpanel:
 
 ## Storlek på anläggningen:
 Rottnerosbacken 36 har plats för 19-20st paneler vilket ger en effekt av 8kW. Uträkningen gjordes [här](Ritningar_tak.md)
+## Summering solceller:
+- 20 paneler
 
 
 ## Montering:
