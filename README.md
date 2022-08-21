@@ -59,21 +59,17 @@ Det verkar finnas hybridväxlare om man vill använda sig av ett batteri (kan l�
 # Batterier:
 Här finns en [bra guide](https://www.solcellskollen.se/blogg/med-lagre-kostnader-och-gront-avdrag-ar-det-lage-att-skaffa-batterier-till-sina-solceller)
 En villa förbrukar mellan 25-40kWh /dag. Ett batteri kostar ung 11000:-/kWh. Det finns ett grönt avdrag för batterier på ca 48.5% vilket gör att ett batter som kostar 70.000:- blir priset ca 36.000kr efter avdrag.
-Enligt artikeln skiljer sig priset mellan att sälja el och köpa el ca 15 öre samt att batteriet klarar max 4000 laddningar vilket gör att det ännu inte är lönt att skaffa batteri till anläggningen.
+Enligt artikeln skiljer sig priset mellan att sälja el och köpa el ca 15 öre samt att batteriet klarar max 4000 laddningar vilket gör att det ännu inte är lönt att skaffa batteri till anläggningen. Alternativt kan batteriet användas för att jämna ut strömspikar på elnätet vilket kan reducera nätavgifter med ca 1-2000kr. men det är inte aktuellt i vårt fall då vi inte har någon t.ex elbil som kräver mycket ström.
 
 # Monteringsdetaljer
-- Fäste för solpaneler
-- Flytta stegar till skorstenen
-- Byta takbrygga: [TBJ](https://www.tjb.se/underkategori/takstege-takbrygga) verkar vara en standard-produkt i sverige för detta.
+??
 
 # Plan:
-
 1. Ta reda på allt material och en idee om hur anläggningen skall se ut samt kapacitet och kostnad för material
 1. Ta reda om om man behöver bygglov för solceller här på rottnerosbacken.
 1. Hitta en elektriker som kan göra jobbet med att installera elen för solcellerna samt kostnad.
 1. avgöra om man vill gjöra jobbet själv eller om man vill lägga ut allt på någon annan. 
 3. Göra beställningen av alla delar.
-
 ... Hur göra med grannens stege som är inne på vårt tak just nu?
 ... Hur göra med takbrygga om vi är det enda huset som skaffar solceller?
 
