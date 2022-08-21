@@ -52,26 +52,19 @@ Rottnerosbacken 36 har plats för 19-20st paneler vilket ger en effekt av 8kW. U
 ## Summering solceller:
 - 20 paneler: 20 * 335€ * 10.63kr/€=71200:-
 
+# Inverter/växelriktare.
+https://www.solcellskollen.se/blogg/sa-valjer-du-en-bra-vaxelriktare
+Det verkar finnas hybridväxlare om man vill använda sig av ett batteri (kan lägga till batteri senare) eller "vanliga" växelriktare. Man kan även använda sig av "optimerare" som man monterar på varje eller vartannan panel.
 
-## Montering:
-- Hur många celler /kwh skulle man kunna få plats med på vårt tak? och hur skulle dessa celler isf monteras?
-- Ta fram ritning på taket med mått
-- testa att passa cellerna på olika sätt, finns det olika möjligheter? Man vill oftast ha panelerna monterade på räcken som går över taket.
-- Finns det någon tak-brygga man kan använda sig av över solcellerna? detta känns inte helt 100 då de kommer skymma panelerna. 
-- Finns det någon lämplig stege till skorstenen man kan använda sig av som inte heller skymmer och som man inte trampar genom och förstör panelerna (oförsiktig sotare?) eller kan man placera stegen mellan på något sätt?
+# Batterier:
+Här finns en [bra guide](https://www.solcellskollen.se/blogg/med-lagre-kostnader-och-gront-avdrag-ar-det-lage-att-skaffa-batterier-till-sina-solceller)
+En villa förbrukar mellan 25-40kWh /dag. Ett batteri kostar ung 11000:-/kWh. Det finns ett grönt avdrag för batterier på ca 48.5% vilket gör att ett batter som kostar 70.000:- blir priset ca 36.000kr efter avdrag.
+Enligt artikeln skiljer sig priset mellan att sälja el och köpa el ca 15 öre samt att batteriet klarar max 4000 laddningar vilket gör att det ännu inte är lönt att skaffa batteri till anläggningen.
 
 # Monteringsdetaljer
 - Fäste för solpaneler
 - Flytta stegar till skorstenen
 - Byta takbrygga: [TBJ](https://www.tjb.se/underkategori/takstege-takbrygga) verkar vara en standard-produkt i sverige för detta.
-
-# Batterier
-Hur mycket batteri behöver man?
-Det finns modulbaserade battterpack där man kan lägga till fler enheter om man vill ha mer lagring
-- Batteri + startmodul:3158€ för 4kwh : https://www.mg-solar-shop.com/pv-battery-systems/storages-solar-batteries
-- Batteri inverter ca 2500€ beroende på effektuttag: https://www.mg-solar-shop.com/pv-battery-systems/inverter-battery-manager/fronius-battery-inverter/
-
-# växelriktare
 
 # Plan:
 
