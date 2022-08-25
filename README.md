@@ -85,4 +85,9 @@ Enligt artikeln skiljer sig priset mellan att sälja el och köpa el ca 15 öre 
 ... Hur göra med grannens stege som är inne på vårt tak just nu?
 ... Hur göra med takbrygga om vi är det enda huset som skaffar solceller?
 
-
+# Kostnader
+1. flytta/byta ut takbrygga (10.000:-), stege skorsten (ca 7000:-), stege gavel (6000:-/3) : **Totalt 20.000:-** 
+#### alt 1: 8kWp anläggning (20 paneler)
+2. material solpaneler: (paneler8kWp: 72000:-), växelriktare (15.000:-), optimerare (12.000:-), DC switchar (1200:-), kablar(1000:- ??): **Totalt  102,000:-**
+### alt 2: 6.4kWp anläggning
+material solpaneler: (paneler8kWp: 57000:-), växelriktare (15.000:-), optimerare (12.000:-), DC switchar (1200:-), kablar(1000:- ??): **Totalt  102,000:-*
