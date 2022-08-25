@@ -21,5 +21,5 @@
 - TBJ verkar vara standard och takbryggor säljs i längder om 1.2 eller 2.4 m sektioner (https://www.tjb.se/underkategori/takstege-takbrygga)
 - Pris sektion 2.4m: ca 3400:- (https://www.byggmax.se/takbrygga-r%C3%A5spont-24m-tjb-p6334831#1224=53295) ca 10.000kr för takbryggan /hushåll
 - Pris stege gavel??
-- pris stege till skorsten ??
+- pris [stege till skorsten](https://www.byggmax.se/takstege-paket-r%C3%A5spontb%C3%A4rl%C3%A4kt-24m-tjb-p6334821?gclid=CjwKCAjwu5yYBhAjEiwAKXk_eKsqvoFef8GaOOLC890I_Zi0mISGuTmx3mqbN80SpVYGgp_flTiqKBoCvpAQAvD_BwE#1224=53295): 6200:-
 
