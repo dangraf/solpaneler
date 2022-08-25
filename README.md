@@ -91,3 +91,10 @@ Enligt artikeln skiljer sig priset mellan att sälja el och köpa el ca 15 öre 
 2. material solpaneler: (paneler8kWp: 72000:-), växelriktare (15.000:-), optimerare (12.000:-), DC switchar (1200:-), kablar(1000:- ??): **Totalt  102,000:-**
 ### alt 2: 6.4kWp anläggning
 material solpaneler: (paneler8kWp: 57000:-), växelriktare (15.000:-), optimerare (12.000:-), DC switchar (1200:-), kablar(1000:- ??): **Totalt  102,000:-*
+
+ej inräknat material för infästning av solceller
+
+15% grönt avdrag kan göras av installatören, oklart hur man gör detta avdrag om man köper material själv.
+
+# alternativ:
+[Ikea solcellspaket 10.1kWp:](https://www.ikea.com/se/sv/clean-energy/solar-systems/) 126.000:-
